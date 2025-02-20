@@ -1,0 +1,21 @@
+.MainCard {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 1em;
+}
+
+.Card {
+  margin-bottom: 1.5rem;
+  -webkit-box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.3);
+}
+.Card__title {
+  margin: 0;
+  padding: 0.5em 1rem;
+  color: #fff;
+  background-color: #2196f3;
+}
+.Card__details {
+  padding: 1px 1rem;
+}
