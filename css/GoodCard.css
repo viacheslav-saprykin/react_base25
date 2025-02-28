@@ -1,14 +1,8 @@
 .GoodCard {
-  margin-bottom: 1.5rem;
-  -webkit-box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.3);
-          box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.3);
-}
-.GoodCard__title {
-  margin: 0;
-  padding: 0.5em 1rem;
-  color: #fff;
-  background-color: #2196f3;
-}
-.GoodCard__details {
-  padding: 1px 1rem;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 4px 8px;
+  border-radius: 8px;
+  background-color: #ddd;
 }
